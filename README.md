@@ -3,3 +3,6 @@ The Security Analysis for Automotive Networks (SAAN) allows automated security a
 
 ## Requirements
 This project uses Apache Commons, OpenDSE and Google Guice. All requirements should be resolved automatically by Gradle.
+
+##Support
+This work has been created in TUM CREATE and was financially supported by the Singapore National Research Foundation under its Campus for Research Excellence and Technological Enterprise (CREATE) program.
